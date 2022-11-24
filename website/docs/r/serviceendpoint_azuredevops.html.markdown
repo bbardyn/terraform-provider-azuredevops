@@ -64,3 +64,7 @@ Azure DevOps Service Endpoint Azure DevOps can be imported using **projectID/ser
 ```sh
 terraform import azuredevops_serviceendpoint_azuredevops.example 00000000-0000-0000-0000-000000000000/00000000-0000-0000-0000-000000000000
 ```
+
+## PAT Permissions Required
+
+- **Service Connections**: Read, query, & manage

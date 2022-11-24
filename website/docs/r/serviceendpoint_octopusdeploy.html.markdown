@@ -59,3 +59,7 @@ Azure DevOps Service Endpoint Octopus Deploy can be imported using **projectID/s
 ```sh
 terraform import azuredevops_serviceendpoint_octopusdeploy.example 00000000-0000-0000-0000-000000000000/00000000-0000-0000-0000-000000000000
 ```
+
+## PAT Permissions Required
+
+- **Service Connections**: Read, query, & manage

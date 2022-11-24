@@ -73,3 +73,4 @@ The resource does not support import.
 ## PAT Permissions Required
 
 - **vso.project_write**:	Grants the ability to read and update projects and teams. 
+- **Security**: Manage

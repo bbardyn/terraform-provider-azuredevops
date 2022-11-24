@@ -105,3 +105,7 @@ Azure DevOps Service Endpoint GitHub can be imported using **projectID/serviceEn
 ```sh
 terraform import azuredevops_serviceendpoint_github.example 00000000-0000-0000-0000-000000000000/00000000-0000-0000-0000-000000000000
 ```
+
+## PAT Permissions Required
+
+- **Service Connections**: Read, query, & manage

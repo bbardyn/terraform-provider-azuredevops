@@ -63,3 +63,7 @@ Azure DevOps Service Endpoint Generic can be imported using **projectID/serviceE
 ```sh
 terraform import azuredevops_serviceendpoint_generic.example 00000000-0000-0000-0000-000000000000/00000000-0000-0000-0000-000000000000
 ```
+
+## PAT Permissions Required
+
+- **Service Connections**: Read, query, & manage

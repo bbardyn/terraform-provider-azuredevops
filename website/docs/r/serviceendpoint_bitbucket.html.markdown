@@ -58,3 +58,7 @@ Azure DevOps Service Endpoint Bitbucket can be imported using **projectID/servic
 ```sh
 terraform import azuredevops_serviceendpoint_bitbucket.example 00000000-0000-0000-0000-000000000000/00000000-0000-0000-0000-000000000000
 ```
+
+## PAT Permissions Required
+
+- **Service Connections**: Read, query, & manage

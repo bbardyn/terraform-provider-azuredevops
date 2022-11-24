@@ -48,4 +48,5 @@ The following attributes are exported:
 
 ## PAT Permissions Required
 
-- **vso.project**:	Grants the ability to read projects and teams.
+- **Project and Team**:	Read
+- **Identity**: Read

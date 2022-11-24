@@ -62,3 +62,7 @@ projectName/serviceEndpointID**
 ```sh
 terraform import azuredevops_serviceendpoint_ssh.example 00000000-0000-0000-0000-000000000000/00000000-0000-0000-0000-000000000000
 ```
+
+## PAT Permissions Required
+
+- **Service Connections**: Read, query, & manage

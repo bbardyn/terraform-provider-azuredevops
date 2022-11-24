@@ -130,3 +130,7 @@ Azure DevOps Service Endpoint Azure Resource Manage can be imported using **proj
 ```sh
 terraform import azuredevops_serviceendpoint_azurerm.example 00000000-0000-0000-0000-000000000000/00000000-0000-0000-0000-000000000000
 ```
+
+## PAT Permissions Required
+
+- **Service Connections**: Read, query, & manage
