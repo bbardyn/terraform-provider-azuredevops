@@ -407,3 +407,7 @@ or
 ```sh
 terraform import azuredevops_build_definition.example 00000000-0000-0000-0000-000000000000/0
 ```
+
+## PAT Permissions Required
+
+- **Build**: Read & execute
