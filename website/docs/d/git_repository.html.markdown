@@ -48,3 +48,7 @@ The following attributes are exported:
 ## Relevant Links
 
 - [Azure DevOps Service REST API 6.0 - Git API](https://docs.microsoft.com/en-us/rest/api/azure/devops/git/?view=azure-devops-rest-6.0)
+- 
+## PAT Permissions Required
+
+- **Code**: Read
